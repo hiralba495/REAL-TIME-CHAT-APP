@@ -28,3 +28,6 @@ Sending Messages: Upon message submission, the client sends the message data thr
 Broadcasting: The server receives the message and broadcasts it to all connected clients or specific chat participants.
 
 UI Update: Each client listens for incoming messages and updates the chat window instantly, reflecting new content without page reloads.
+
+*OUTPUT
+![Image](https://github.com/user-attachments/assets/5947bcc0-25ec-4a2a-9fd7-9f570150d10b)
